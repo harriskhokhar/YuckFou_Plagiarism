@@ -40,9 +40,18 @@ french = translator.translate(spanish.text, src='es', dest='fr')
 arabic = translator.translate(french.text, src='fr', dest='ar')
 english = translator.translate(arabic.text, src='ar', dest='en')
 
-
+#Printing on Screen
 print("Original Content: \n{}".format(content))
 print("\n\nNew Content: \n{}".format(english.text))
+
+#Getting filename without Extention and Creating new Filename for output
+newFilename = filename.split(".")
+new_filename = newFilename[0] + "_new.txt"
+
+#Writing the New Content in Output File
+with open(new_filename,'w') as ff:
+	ff.write(english.text)
+print("\nOutput File: {}".format(new_filename))
 
 #Coded by Farjaal Ahmad
 #Creation Date: 15-01-2020
