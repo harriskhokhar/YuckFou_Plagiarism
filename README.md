@@ -19,5 +19,5 @@ Please Proof Read the Output Content and Check it's Grammar.
 and Many More for Private version :p
 
 ### Tool Idea
-I am too Lazy to make my Assignments for myself. After Submitting the Assignment for Multiple times, I got less marks due to Plagiarism. Then, After Searching, All gone in Vain. So, I Decided to Code it Myself.
+I am too Lazy to make my Assignments for myself. After Submitting the Assignment for Multiple times, I got less marks due to Plagiarism. Then, After Searching for Tool to Bypass it, But all gone in Vain. So, I Decided to Code it Myself.
 ### Contact: farjaalahmad@gmail.com
