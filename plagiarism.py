@@ -11,11 +11,11 @@ except Exception:
 	print("Please, Execute the Script Again!")
 	sys.exit(0)
 
+translator = Translator()
+version = "1.0"
+
 def main():
-	translator = Translator()
-	version = "1.0"
-
-
+	
 	#Print Banner
 	print("""
 __   __         _   ______           ______ _             _            _               
