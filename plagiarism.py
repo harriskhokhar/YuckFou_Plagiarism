@@ -10,6 +10,7 @@ except Exception:
 	os.system("python -m pip install googletrans --user && clear")
 	print("Please, Execute the Script Again!")
 	sys.exit(0)
+
 def main():
 	translator = Translator()
 	version = "1.0"
