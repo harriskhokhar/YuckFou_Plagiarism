@@ -3,7 +3,6 @@
 #Importing Libaries and Initializing Variables :p
 import requests as req
 import os,sys
-#from bs4 import BeautifulSoup
 try:
 	from googletrans import Translator
 except Exception:
