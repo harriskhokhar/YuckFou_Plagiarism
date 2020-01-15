@@ -8,11 +8,11 @@ Then, Enter the text File name as an Input.
 Output will be shown on Terminal
 
 
-## Note:
+## Note
 Please Proof Read the Output Content and Check it's Grammar.
 
-## Upcoming Version
-1. Auto-Correct Grammar
+## Upcoming Versions Upgrade may Include
+1. Auto-Correct Grammar.
 2. Verification Online for the Plagiarism and Uniqueness Percentage.
 3. More Upgraded Ways to Bypass Plagiarism.
 
