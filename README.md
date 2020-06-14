@@ -1,5 +1,5 @@
 # YuckFou_Plagiarism
-A Simple tool to Bypass Plagiarism.
+A Simple tool to Bypass Plagiarism written in Python3.
 
 ## Usage:
 	python plagiarism.py
