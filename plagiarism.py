@@ -5,7 +5,6 @@ import os
 import sys
 if not sys.version_info[0] >= 3:
     print("Please execute this script with Python 3.")
-    print(sys.argv[0])
     sys.exit(0)
 
 try:
