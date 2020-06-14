@@ -1,7 +1,6 @@
 #!/usr/bin/python
 
 # Importing Libaries and Initializing Variables :p
-import os
 import sys
 if not sys.version_info[0] >= 3:
     print("Please execute this script with Python 3.")
