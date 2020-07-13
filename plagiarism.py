@@ -10,7 +10,7 @@ try:
     from googletrans import Translator
 
 except Exception:
-    print("Please, Install dependencies First by Executing \"pip install googletrans\"")
+    print("Please, Install dependencies First by Executing \"pip install googletrans requests\"")
     sys.exit(0)
 
 translator = Translator()
