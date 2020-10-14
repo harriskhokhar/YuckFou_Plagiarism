@@ -2,6 +2,7 @@
 A Simple tool to Bypass Plagiarism written in Python 3.
 
 ## Usage:
+	python -m pip install requests googletrans
 	python plagiarism.py
 	
 Then, Enter the text File name as an Input.
