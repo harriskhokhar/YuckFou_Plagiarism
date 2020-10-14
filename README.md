@@ -6,7 +6,7 @@ A Simple tool to Bypass Plagiarism written in Python 3.
 	python plagiarism.py
 	
 Then, Enter the text File name as an Input.
-Output will be shown on Terminal
+Output will be shown on Terminal and stored in a File.
 
 
 ## Note
